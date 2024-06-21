@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://itmobitl.github.io/sitemap
+Sitemap: https://itmobitl.github.io/app/sitemap
+Sitemap: https://itmobitl.github.io/assets/sitemap
+Sitemap: https://itmobitl.github.io/css/sitemap
+Sitemap: https://itmobitl.github.io/includes/sitemap
+Sitemap: https://itmobitl.github.io/item/sitemap
+Sitemap: https://itmobitl.github.io/src/sitemap
